@@ -1,5 +1,7 @@
 본 프로젝트는 [2020 군장병 공개SW 온라인 해커톤](https://osam.kr/main/page.jsp?pid=offline.offline19)에 출품했던 프로젝트입니다.
 
+This project was submitted to 2020 Open Source Online Hackathon, hosted by [Korean Open Source Academy for Military](https://osam.kr/main/page.jsp?pid=offline.offline19).
+
 ----------
 
 <p align="center"><img src="LeaveOut-logo.png"></p>
@@ -11,7 +13,9 @@
 
 출타 신청시의 *소통의 어려움*과 *작업의 불편함*을 해결하는 **자동화된 시스템**
 
-## 시연영상
+(**Automated System** for effectively managing leaves of Korean soldiers)
+
+## 시연영상 (Demo)
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://youtu.be/Hc-uen8y0mc)](https://youtu.be/Hc-uen8y0mc)
 
@@ -245,7 +249,7 @@
 <a href="https://github.com/Tekiter"><img src="https://img.shields.io/badge/Github-Tekiter-green?style=flat&logo=github&color=blue" alt="Tekiter"></a>
 
 백도원 (bkdo1006@naver.com)<br>
-<a href="https://github.com/ask-to-answer"><img src="https://img.shields.io/badge/Github-ask--to--answer-green?style=flat&logo=github&color=blue" alt="ask-to-answer"></a>
+<a href="https://github.com/Quantour"><img src="https://img.shields.io/badge/Github-Quantour-green?style=flat&logo=github&color=blue" alt="Quantour"></a>
 
 # 저작권 및 사용권 정보 (Copyleft / End User License)
 
